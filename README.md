@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brodovoi
 - 👀 I’m interested in Web development (js, react.js). 
-- 🌱 I’m currently learning everything. From zero to hero!)
+- 🌱 I’m currently learning node.js. From zero to hero!)
 - 📫 How to reach me a.borodovoi@gmail.com
 
 <!---
